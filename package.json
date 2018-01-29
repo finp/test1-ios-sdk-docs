@@ -1,19 +1,18 @@
 {
-  "name": "test1-sdk-docs",
-  "version": "1.0.0",
-  "description": "= Mobile Docs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/finp/test1-sdk-docs.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/finp/test1-sdk-docs/issues"
-  },
-  "homepage": "https://github.com/finp/test1-sdk-docs#readme"
+	"name": "test1-ios-sdk-docs",
+	"version": "1.0.0",
+	"description": "= Mobile Docs",
+	"homepage": "https://github.com/finp/test1-sdk-docs#readme",
+	"bugs": {
+		"url": "https://github.com/finp/test1-sdk-docs/issues"
+	},
+	"license": "ISC",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/finp/test1-sdk-docs.git"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
 }
